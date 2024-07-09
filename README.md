@@ -1,5 +1,6 @@
 # Wave-Function-Collapse
-# WFC Map Generator  This repository contains a Unity C# script (`WFC.cs`) for generating game maps using the Wave Function Collapse (WFC) algorithm. 
+# WFC Map Generator  
+This repository contains a Unity C# script (`WFC.cs`) for generating game maps using the Wave Function Collapse (WFC) algorithm. 
 The script allows for flexible map generation by defining various map styles and grid operations, making it suitable for procedural generation in games.  
 ## Features  
 - **Direction Enumeration**: Enum listing possible directions for map tiles.
