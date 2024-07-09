@@ -1017,13 +1017,6 @@ public class WFC : MonoBehaviour
         dustEffect.transform.position = pos;
         dustEffect.SetActive(true);
     }
-
-
-    #region WFC Algorithm
-
-    // WFC algorithm implementation here
-
-    #endregion
 }
 
 
